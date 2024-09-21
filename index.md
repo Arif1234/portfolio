@@ -8,4 +8,4 @@ Loan Default Prediction is an analytical process that enables consumer finance c
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Arif1234/Leading-Club-Case-Study)
 
-<center><img src="/assets/img/Loan Fraud Prediction.jpg"/></center>
+<center><img src="/assets/img/Loan_Fraud_Prediction.jpg"/></center>
